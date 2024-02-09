@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": "021d",
+      "text": "Relax and bedtime",
+      "createdAt": "2/9/2024, 2:00:38 PM",
+      "Completed": false,
+      "CompletedAt": null
+    },
+    {
+      "id": "3543",
+      "text": "Eat lunch with khushi",
+      "createdAt": "2/9/2024, 2:01:04 PM",
+      "Completed": true,
+      "CompletedAt": "2/9/2024, 2:02:06 PM"
+    },
+    {
+      "id": "a741",
+      "text": "Wake up, shower, leave for work",
+      "createdAt": "2/9/2024, 2:01:52 PM",
+      "Completed": true,
+      "CompletedAt": "2/9/2024, 2:01:58 PM"
+    }
+  ]
+}
